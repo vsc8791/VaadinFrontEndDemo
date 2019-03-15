@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: VaadinBakery
+Implementation-Version: 1.0-SNAPSHOT
+Built-By: vaibhav.chauhan
+Implementation-Vendor-Id: com.vsc
+Build-Jdk: 1.8.0_201
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/vaadinbakery
+Created-By: Maven Integration for Eclipse
+
